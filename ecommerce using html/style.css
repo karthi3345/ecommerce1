@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+}
+/*Header*/
+header{
+    border-bottom: 1px solid lightgreen;
+     
+}
+.logo_div{
+ 
+ display: inline-block;
+ width: 23%;
+ margin-left: 20px;
+
+
+}
+.menu_div{
+   
+    display: inline-block;
+    width:48%;
+    text-align: center;
+    
+   
+}
+
+
+.icon_div{
+   
+    display: inline-block;
+    width: 27%;
+
+    
+    
+}
+.logo_div img{
+    width: 150px
+}
+
+.menu_div ul li{
+   list-style-type: none;
+   display: inline-block;
+   padding: 20px;
+   font-family: 'Poppins', sans-serif;
+   
+}
+.icon_div i{
+    font-size: 25px;
+    padding: 20px;
+}
+
+/*Section 2*/
+
+.heading_section{
+    
+    text-align: center;
+ 
+}
+.heading_section h3{
+    font-size: 40px;
+    color: yellowgreen;
+    font-family: 'Passions Conflict', cursive;
+    font-size: 55px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+.heading_section h4{
+    margin-top: 5px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*product box */
+ .product_box{
+    border: 1px solid green;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+   
+
+ 
+
+ .product_box img{
+    width: 320px;
+    height: 300px;
+ }
+main{
+    margin-top: 20px;
+   
+}
+.product_box h4,h5{
+    font-size: 20px;
+}
+
+.product_box h4{
+    font-style: italic;
+    margin-top: 10px;
+}
+.product_box h5{
+    margin-top: 10px;
+}
+main{
+     width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.product_box button{
+    color: white;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
